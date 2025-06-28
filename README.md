@@ -1,1 +1,1 @@
-# alx-project-0x04-setup
+# Next.js project setup & state management
